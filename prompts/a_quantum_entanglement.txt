@@ -1,0 +1,100 @@
+Quantum entanglement is one of the most mysterious phenomena in physics.
+It describes a situation where two or more particles become correlated in such a way that the quantum state of one particle cannot be described independently of the others.
+This correlation persists regardless of the distance separating the particles.
+Albert Einstein famously referred to entanglement as "spooky action at a distance." The phenomenon challenges our classical intuitions about locality and realism.
+When particles are entangled, measuring the state of one particle instantaneously affects the state of the other.
+This does not violate special relativity because no information is transmitted faster than light.
+Entanglement was first predicted by the mathematical formalism of quantum mechanics.
+The Einstein-Podolsky-Rosen paradox highlighted the counterintuitive nature of entanglement.
+Schrödinger coined the term "entanglement" in 1935.
+Entangled particles can be photons, electrons, atoms, or even larger molecules.
+The entanglement is created through various physical processes such as spontaneous parametric down-conversion.
+In this process, a single photon splits into two lower-energy photons that are entangled.
+Quantum entanglement is the basis for many quantum technologies.
+Quantum computing relies heavily on entangled qubits to perform computations.
+Quantum cryptography uses entanglement to create theoretically unbreakable encryption.
+Quantum teleportation uses entanglement to transfer quantum states between locations.
+Bell's theorem provided a way to experimentally test the reality of entanglement.
+John Bell showed that no local hidden variable theory could reproduce all predictions of quantum mechanics.
+Experiments have consistently violated Bell's inequalities, confirming quantum entanglement.
+Aspect's experiments in the 1980s were landmark tests of Bell's inequalities.
+Modern experiments have closed various loopholes that could explain the results classically.
+Entanglement can involve more than two particles, creating multipartite entanglement.
+The GHZ state is a famous example of three-particle entanglement.
+W states represent another class of multipartite entangled states.
+Cluster states are highly entangled states useful for measurement-based quantum computation.
+The degree of entanglement can be quantified using various measures.
+Entanglement entropy is one such measure derived from the density matrix.
+The concurrence is another measure specifically for two-qubit systems.
+Negativity is a measure that works for general quantum systems.
+Entanglement is a resource that can be consumed in quantum protocols.
+Pure maximally entangled states are the most useful for quantum information tasks.
+Mixed states can also exhibit entanglement, though typically less useful.
+Bound entanglement refers to entangled states from which no pure entanglement can be distilled.
+Entanglement distillation is the process of extracting maximally entangled states from less entangled ones.
+Decoherence is the main enemy of quantum entanglement.
+Environmental interactions cause entangled states to lose their quantum correlations.
+Maintaining entanglement requires careful isolation from the environment.
+Quantum error correction can help preserve entanglement in noisy conditions.
+Topological quantum computing aims to use topologically protected states to maintain entanglement.
+Entanglement has been observed across increasingly large distances.
+Satellite-based quantum communication has achieved entanglement over thousands of kilometers.
+The Micius satellite has been crucial for long-distance entanglement experiments.
+Ground-to-satellite entanglement distribution is now routinely achieved.
+Entanglement between atoms and photons is particularly useful for quantum networks.
+Atom-photon entanglement enables quantum repeaters for long-distance communication.
+Entanglement swapping allows entanglement to be extended to particles that never interacted.
+This technique is essential for building quantum networks spanning large distances.
+The monogamy of entanglement means a particle maximally entangled with one cannot be entangled with another.
+This property has important implications for quantum information theory.
+Entanglement witnesses are observables that can detect the presence of entanglement.
+These provide practical tools for experimentally verifying entanglement.
+The separability problem asks whether a given state is entangled or not.
+For general systems, this problem is computationally difficult.
+Quantum discord is a more general form of quantum correlation that includes entanglement.
+Some separable states can still exhibit quantum discord.
+Entanglement sudden death refers to the finite-time disappearance of entanglement under decoherence.
+This phenomenon occurs even when individual subsystems have not fully decohered.
+Entanglement can be present in thermal states at finite temperature.
+High temperatures generally destroy entanglement in most systems.
+Spin chains can exhibit long-range entanglement even at finite temperatures.
+Topological order can protect entanglement from local perturbations.
+The area law for entanglement entropy states that entanglement grows with boundary area, not volume.
+Violations of the area law can signal interesting quantum phases.
+Critical systems often violate the area law due to long-range correlations.
+Conformal field theory provides tools to calculate entanglement in critical systems.
+Tensor networks efficiently represent many-body entangled states.
+Matrix product states capture the entanglement structure of one-dimensional systems.
+Projected entangled pair states generalize this to higher dimensions.
+Tensor network methods have revolutionized the study of quantum many-body systems.
+Entanglement renormalization provides a way to coarse-grain quantum systems.
+The MERA tensor network explicitly implements this idea.
+Quantum phase transitions are characterized by changes in entanglement structure.
+The entanglement spectrum provides additional information beyond the entanglement entropy.
+Black holes are believed to have maximal entanglement entropy.
+The holographic principle relates bulk entanglement to boundary area.
+AdS/CFT correspondence provides a concrete realization of this idea.
+Entanglement in quantum field theory is an active area of research.
+The Reeh-Schlieder theorem shows that the vacuum is entangled across spatial regions.
+Modular Hamiltonians are associated with the reduced density matrices of spatial regions.
+The Casini-Huerta-Myers map connects entanglement to thermodynamic quantities.
+Quantum entanglement may play a role in the structure of spacetime itself.
+ER=EPR conjecture suggests wormholes are equivalent to entanglement.
+This idea connects general relativity with quantum information theory.
+Emergent spacetime scenarios propose that geometry arises from entanglement patterns.
+Entanglement is being explored as a resource in quantum thermodynamics.
+Quantum batteries using entanglement may store and deliver energy more efficiently.
+Biological systems might exploit quantum entanglement, though this is controversial.
+Photosynthesis has been proposed as a process that uses quantum effects.
+Avian magnetoreception might involve entangled radical pairs.
+The quantum brain hypothesis suggests consciousness involves quantum entanglement.
+This idea remains highly speculative and lacks strong evidence.
+Entanglement generation is a key challenge in experimental quantum physics.
+Ion traps can create highly entangled states of many ions.
+Superconducting circuits are another platform for generating entanglement.
+While Bell actively discouraged students from pursuing work like his as too esoteric, after a talk at Oxford a student named Artur Ekert suggested that the violation of a Bell inequality could be used as a resource for communication.
+Despite Schrödinger's claim of its importance, little work on entanglement was published for decades after his paper was published.
+In 1946, John Archibald Wheeler suggested studying the polarization of pairs of gamma-ray photons produced by electron–positron annihilation.
+Like Einstein, Schrödinger was dissatisfied with the concept of entanglement, because it seemed to violate the speed limit on the transmission of information implicit in the theory of relativity.
+A possible resolution to the paradox is to assume that quantum theory is incomplete, and the result of measurements depends on predetermined "hidden variables".
+Local hidden variable theories fail, however, when measurements of the spin of entangled particles along different axes are considered.

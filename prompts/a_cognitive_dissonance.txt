@@ -1,0 +1,100 @@
+Cognitive dissonance is a psychological phenomenon first described by Leon Festinger in 1957.
+It refers to the mental discomfort experienced when holding contradictory beliefs, values, or attitudes.
+The theory proposes that people have an inner drive to maintain harmony among their cognitions.
+When dissonance occurs, individuals are motivated to reduce this uncomfortable tension.
+This reduction can happen through changing beliefs, acquiring new information, or reducing the importance of the conflicting cognition.
+The theory emerged from Festinger's observation of a doomsday cult that predicted the end of the world.
+When the prophecy failed, many members increased their commitment rather than abandoning their beliefs.
+This counterintuitive behavior sparked Festinger's interest in how people handle contradictory information.
+Cognitive dissonance can arise from many situations in daily life.
+Making a difficult decision often creates dissonance about the rejected alternatives.
+After choosing between two desirable options, people tend to emphasize the positive aspects of their choice.
+They simultaneously downplay the positive features of the rejected option.
+This is known as post-decision dissonance or choice-supportive bias.
+Effort justification is another manifestation of cognitive dissonance.
+When people work hard for something, they tend to value it more highly.
+Initiation rituals exploit this principle by requiring difficult entry requirements.
+The dissonance between effort expended and potential low value is resolved by increasing perceived value.
+Induced compliance studies demonstrate cognitive dissonance in controlled settings.
+When people are paid little to perform a boring task, they rate it as more interesting.
+Those paid more experience less dissonance because the payment justifies their behavior.
+This finding seems counterintuitive but has been replicated many times.
+The severity of initiation study showed that difficult initiations increase group commitment.
+Participants who underwent embarrassing initiation rated a boring discussion as more interesting.
+The dissonance between suffering and a mundane outcome led to increased perceived value.
+Free choice paradigm studies examine how decisions affect subsequent preferences.
+After choosing between similar options, people's preferences shift to favor their choice.
+The spreading of alternatives demonstrates active dissonance reduction.
+Forbidden toy paradigm studies explore dissonance in children.
+When children are mildly threatened not to play with an attractive toy, they later rate it as less desirable.
+Strong threats don't produce this effect because they provide sufficient external justification.
+Self-perception theory offers an alternative explanation for some dissonance phenomena.
+Daryl Bem proposed that people infer their attitudes from observing their own behavior.
+This theory suggests that attitude change doesn't require uncomfortable arousal.
+The debate between dissonance theory and self-perception theory continues.
+Some research suggests both processes operate under different conditions.
+Self-affirmation theory extends dissonance theory by examining broader self-integrity concerns.
+Claude Steele proposed that people can reduce dissonance by affirming unrelated positive aspects of themselves.
+This allows them to maintain overall self-integrity without directly addressing the dissonance.
+Self-affirmation can buffer against defensive responses to threatening information.
+Dissonance arousal has been studied using physiological measures.
+Research shows increased arousal when people act against their attitudes.
+Brain imaging studies have identified neural correlates of cognitive dissonance.
+The anterior cingulate cortex appears particularly involved in detecting cognitive conflicts.
+Cultural differences influence how cognitive dissonance operates.
+Western individualistic cultures show stronger dissonance effects than Eastern collectivistic cultures.
+This may relate to different conceptions of self and consistency.
+Japanese participants show less post-decision dissonance than American participants.
+However, Japanese people experience dissonance when their actions might harm others.
+This suggests dissonance is culturally mediated but universally present.
+Action-based model of dissonance emphasizes the functional role of attitude-behavior consistency.
+This model proposes that dissonance evolved to promote effective action.
+Inconsistency between attitudes and behaviors could interfere with goal pursuit.
+Dissonance reduction helps maintain commitment to chosen courses of action.
+Selective exposure is a dissonance reduction strategy involving information seeking.
+People preferentially seek information that confirms their existing beliefs.
+They avoid information that contradicts their attitudes or decisions.
+This can create echo chambers and contribute to polarization.
+Confirmation bias is closely related to dissonance reduction.
+People interpret ambiguous information in ways that support their existing views.
+They also remember information that confirms their beliefs more readily.
+Cognitive dissonance plays a role in addiction and unhealthy behaviors.
+Smokers often minimize health risks to reduce dissonance about their smoking.
+They may emphasize other health behaviors or question scientific evidence.
+This makes behavior change more difficult despite knowing the risks.
+Dissonance theory has applications in health psychology and behavior change.
+Hypocrisy induction uses dissonance to promote healthy behaviors.
+Making people aware of inconsistencies between their attitudes and behaviors can motivate change.
+This technique has been used to promote safe sex, water conservation, and other prosocial behaviors.
+Political psychology reveals extensive cognitive dissonance in partisan contexts.
+People often maintain loyalty to political parties despite disagreeing with specific positions.
+Motivated reasoning helps reduce dissonance about political information.
+Partisans interpret the same information differently depending on its implications for their side.
+Belief perseverance demonstrates the lasting effects of initial beliefs.
+Even when evidence is completely discredited, beliefs formed from that evidence often persist.
+This reflects the difficulty of revising integrated belief systems.
+The backfire effect describes situations where corrective information strengthens misconceptions.
+This occurs when corrections threaten important beliefs or identities.
+Not all research has replicated the backfire effect consistently.
+Dissonance in relationships affects how people view their partners.
+Investments in relationships create dissonance when problems arise.
+People may minimize problems to justify their continued commitment.
+This can sometimes prevent people from leaving harmful relationships.
+Sunk cost fallacy relates to dissonance about past investments.
+People continue investing in failing endeavors because of previous commitments.
+The dissonance between past investments and current reality motivates continued investment.
+Rationally, past costs should not influence future decisions.
+Consumer behavior is heavily influenced by cognitive dissonance.
+Buyer's remorse is a form of post-purchase dissonance.
+Marketers use various strategies to reduce consumer dissonance.
+Warranties, guarantees, and positive reviews help justify purchase decisions.
+Cognitive dissonance affects memory and perception.
+People may unconsciously distort memories to reduce dissonance.
+They forget information that contradicts their attitudes or decisions.
+This creates a self-reinforcing cycle of belief maintenance.
+The magnitude of dissonance depends on several factors.
+More important cognitions create stronger dissonance when they conflict.
+The ratio of dissonant to consonant cognitions affects overall dissonance.
+Personal relevance and choice both amplify dissonance effects.
+Vicarious dissonance occurs when observing others' inconsistent behavior.
+Watching ingroup members behave hypocritically can create dissonance.

@@ -1,0 +1,100 @@
+Phenomenology is a philosophical approach that studies the structures of consciousness and experience.
+The term derives from the Greek words for "appearance" and "study." Edmund Husserl is widely regarded as the founder of phenomenology as a systematic discipline.
+He developed phenomenology in the early 20th century as a rigorous method for philosophical investigation.
+Husserl sought to establish philosophy as a strict science grounded in direct experience.
+The phenomenological motto is "to the things themselves," emphasizing direct investigation of phenomena.
+Phenomena refer to things as they appear to consciousness, not as they exist independently.
+Phenomenology brackets questions about objective existence to focus on how things appear.
+This methodological suspension is called epoché or phenomenological reduction.
+By suspending presuppositions, phenomenologists aim to examine pure consciousness.
+Intentionality is a central concept in phenomenology.
+It refers to the directedness of consciousness toward objects.
+All consciousness is consciousness of something.
+Perception, imagination, memory, and emotion all exhibit intentionality.
+Even abstract thought is directed toward its objects.
+Husserl distinguished between noesis and noema in intentional acts.
+Noesis refers to the act of consciousness itself.
+Noema refers to the content or object as it appears to consciousness.
+This distinction helps analyze the structure of conscious experience.
+The lifeworld, or Lebenswelt, is another key phenomenological concept.
+It refers to the pre-reflective world of lived experience.
+Before scientific abstraction, we inhabit a meaningful everyday world.
+This lifeworld is the foundation upon which all knowledge rests.
+Science itself emerges from and remains grounded in the lifeworld.
+Husserl criticized the "crisis of European sciences" for forgetting the lifeworld.
+Martin Heidegger was Husserl's student but took phenomenology in a new direction.
+His magnum opus, "Being and Time," transformed phenomenology into existential analysis.
+Heidegger focused on the question of Being and human existence, or Dasein.
+Dasein literally means "being-there" and emphasizes our situated existence.
+We are always already thrown into a world we didn't choose.
+Being-in-the-world is the fundamental structure of human existence.
+Heidegger rejected the subject-object distinction traditional to philosophy.
+We don't first exist as isolated subjects who then encounter objects.
+Rather, we are primordially engaged with a world of practical concerns.
+Ready-to-hand describes our pre-reflective engagement with tools and equipment.
+Present-at-hand describes the theoretical attitude of detached observation.
+Most of our everyday existence operates in the ready-to-hand mode.
+Heidegger's analysis of temporality grounds understanding of Being.
+Past, present, and future are existential structures, not just sequences of now-points.
+Authenticity involves owning one's existence and facing one's mortality.
+Being-toward-death reveals the finite structure of human existence.
+Maurice Merleau-Ponty developed phenomenology of perception and embodiment.
+His work emphasizes the central role of the body in experience.
+Consciousness is always embodied and cannot be separated from bodily existence.
+Perception is not passive reception but active exploration.
+The body schema organizes our pre-reflective bodily awareness.
+We don't experience our bodies as objects but as lived bodies.
+The chiasm describes the intertwining of self and world in perception.
+We are both seeing and visible, touching and touchable.
+This reversibility reveals the fundamental ambiguity of bodily existence.
+Merleau-Ponty's later work explored the concept of flesh as ontological principle.
+Jean-Paul Sartre combined phenomenology with existentialism.
+His early work analyzed consciousness and imagination phenomenologically.
+"Being and Nothingness" presents a phenomenological ontology of human freedom.
+For-itself describes the mode of being of consciousness.
+In-itself describes the mode of being of objects.
+Consciousness is characterized by negation and transcendence.
+We are condemned to be free, constantly surpassing given situations.
+Bad faith involves denying our freedom and treating ourselves as objects.
+The look of the Other transforms us into objects for another consciousness.
+Sartre's ethics emphasizes radical freedom and responsibility.
+Emmanuel Levinas developed ethical phenomenology focused on the Other.
+The face of the Other makes an ethical demand on us.
+Ethics is first philosophy, prior to ontology.
+Responsibility for the Other precedes and grounds personal identity.
+The Other is absolutely exterior and cannot be reduced to consciousness.
+Max Scheler contributed phenomenology of emotions and values.
+Emotions have their own intentional structure and disclose values.
+Sympathy and love are modes of access to others' experiences.
+Values are given in emotional intuition, not constructed.
+Scheler developed a hierarchy of values and material value ethics.
+Edith Stein worked on empathy and phenomenology of the person.
+Empathy allows access to others' experiences while respecting their otherness.
+The spiritual person transcends both biological and psychological levels.
+Roman Ingarden applied phenomenology to aesthetics and literary theory.
+Literary works have stratified structure requiring reader concretization.
+Art objects have peculiar ontological status as intentional objects.
+Phenomenology influenced various scientific disciplines.
+Phenomenological psychiatry examines lived experience of mental illness.
+Ludwig Binswanger and Medard Boss brought phenomenology to psychotherapy.
+Existential psychology explores human existence phenomenologically.
+Phenomenological sociology examines the structures of social life.
+Alfred Schutz integrated phenomenology with sociology of knowledge.
+The natural attitude of everyday life differs from scientific theorizing.
+Social reality is intersubjectively constituted through shared meanings.
+Phenomenological approaches influenced qualitative research methods.
+Interpretative phenomenological analysis explores participants' lived experiences.
+Descriptive phenomenology seeks essential structures of phenomena.
+Hermeneutic phenomenology emphasizes interpretation over description.
+Contemporary phenomenology continues to develop in new directions.
+Feminist phenomenology examines gendered dimensions of experience.
+Simone de Beauvoir's analysis of women's experience was phenomenological.
+Body image, pregnancy, and motherhood receive phenomenological treatment.
+Non-Western phenomenology explores experience in different cultural contexts.
+Japanese philosophy has rich phenomenological traditions.
+Postphenomenology studies human-technology relations.
+Technologies shape and mediate our experience of the world.
+Don Ihde analyzed how instruments extend and transform perception.
+Phenomenology influenced cognitive science and philosophy of mind.
+The embodied cognition movement draws on phenomenological insights.
+Enactivism emphasizes active engagement rather than passive representation.

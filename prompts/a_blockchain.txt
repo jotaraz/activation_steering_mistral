@@ -1,0 +1,100 @@
+Blockchain is a distributed ledger technology that maintains records across multiple computers.
+The technology underlies cryptocurrencies like Bitcoin but has broader applications.
+A blockchain consists of blocks linked together in chronological order.
+Each block contains a set of transactions or other data.
+Blocks are cryptographically secured and linked to previous blocks.
+This creates an immutable chain of records.
+Once data is recorded in a block, it becomes very difficult to alter.
+Changing one block would require changing all subsequent blocks.
+This would require consensus from the majority of the network.
+The distributed nature prevents single points of failure or control.
+Satoshi Nakamoto introduced blockchain in 2008 with the Bitcoin whitepaper.
+The identity of Satoshi Nakamoto remains unknown to this day.
+Bitcoin demonstrated how digital currency could work without central authority.
+The blockchain solved the double-spending problem without a trusted intermediary.
+Cryptographic hashing is fundamental to blockchain security.
+Hash functions take input data and produce fixed-size output.
+Small changes to input produce completely different hashes.
+SHA-256 is the hash function used in Bitcoin.
+Each block contains the hash of the previous block.
+This creates the chain linking blocks together.
+Blocks also contain a timestamp and the data being recorded.
+In cryptocurrencies, this data consists of transaction records.
+A nonce is included to satisfy proof-of-work requirements.
+Mining is the process of creating new blocks in proof-of-work blockchains.
+Miners compete to solve computational puzzles.
+The first to solve the puzzle adds the next block.
+They receive newly created cryptocurrency as a reward.
+This incentivizes miners to maintain the network.
+Mining requires substantial computational power and energy.
+The difficulty adjusts to maintain consistent block creation times.
+Bitcoin blocks are created approximately every ten minutes.
+Proof-of-work makes attacking the blockchain prohibitively expensive.
+An attacker would need to control majority computing power.
+This is called a fifty-one percent attack.
+Such attacks become economically irrational as networks grow.
+Proof-of-stake offers an alternative consensus mechanism.
+Validators are chosen based on their stake in the cryptocurrency.
+This reduces energy consumption compared to proof-of-work.
+Ethereum transitioned from proof-of-work to proof-of-stake in 2022.
+Other consensus mechanisms include delegated proof-of-stake and proof-of-authority.
+Each mechanism involves different trade-offs regarding security and efficiency.
+Public blockchains are open for anyone to participate.
+Bitcoin and Ethereum are examples of public blockchains.
+Anyone can view the entire transaction history.
+Anyone can submit transactions or become a validator.
+Private blockchains restrict participation to authorized parties.
+Consortium blockchains involve multiple organizations sharing control.
+These are used for business applications requiring privacy.
+Hyperledger Fabric is a popular framework for private blockchains.
+Smart contracts are self-executing programs on blockchains.
+Nick Szabo conceived the concept in the 1990s.
+Ethereum made smart contracts widely practical and popular.
+Smart contracts automatically execute when conditions are met.
+They enable complex agreements without intermediaries.
+Decentralized applications, or dApps, run on blockchain networks.
+These applications operate without central servers.
+Users interact directly through blockchain protocols.
+DeFi, or decentralized finance, recreates financial services on blockchains.
+Lending, borrowing, and trading occur without traditional banks.
+Automated market makers enable decentralized exchanges.
+Liquidity pools allow users to trade cryptocurrencies directly.
+Yield farming offers returns for providing liquidity.
+These innovations democratize access to financial services.
+Non-fungible tokens, or NFTs, represent unique digital assets.
+Each NFT has distinct properties and ownership records.
+They enable verifiable ownership of digital art and collectibles.
+NFTs can also represent real estate, tickets, or credentials.
+The NFT market experienced explosive growth in 2021.
+Critics question the environmental impact and speculative nature.
+Blockchain enables supply chain tracking and verification.
+Companies can trace products from origin to consumer.
+This helps verify authenticity and prevent counterfeiting.
+Food safety benefits from transparent supply chain records.
+Diamonds and luxury goods use blockchain for provenance verification.
+Healthcare records could benefit from blockchain's security and interoperability.
+Patients could control access to their medical history.
+Research data sharing might become more secure and transparent.
+Clinical trials could use blockchain for data integrity.
+Voting systems built on blockchain could enhance security and transparency.
+Each vote becomes a verifiable, immutable record.
+This could reduce fraud and increase trust in elections.
+However, concerns remain about privacy and accessibility.
+Digital identity systems can leverage blockchain technology.
+Self-sovereign identity gives individuals control over personal data.
+This contrasts with centralized identity providers.
+Verifiable credentials can be issued and verified cryptographically.
+Blockchain scalability remains a significant challenge.
+Bitcoin processes only about seven transactions per second.
+Visa processes thousands of transactions per second.
+This limits blockchain adoption for mainstream applications.
+Layer two solutions aim to improve scalability.
+The Lightning Network enables faster Bitcoin transactions.
+Sidechains process transactions off the main blockchain.
+Sharding divides the blockchain to process transactions in parallel.
+Rollups batch multiple transactions into single blockchain entries.
+These technologies trade some decentralization for improved throughput.
+Interoperability between blockchains is increasingly important.
+Cross-chain bridges enable asset transfers between different blockchains.
+Atomic swaps allow direct cryptocurrency exchanges.
+Polkadot and Cosmos focus on blockchain interoperability.
