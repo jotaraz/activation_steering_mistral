@@ -60,7 +60,7 @@ This doesn't mean steering vectors encode nothing semantic (truth-steering does 
 ```
 ├── activation_steering.ipynb    # Unified experiment notebook
 ├── paper.pdf                    # Full research paper
-├── data/                        # Prompt datasets
+├── prompts/                        # Prompt datasets
 │   ├── true.txt                 # True statements
 │   ├── false.txt                # False statements
 │   ├── happy.txt                # Happy statements
@@ -71,13 +71,13 @@ This doesn't mean steering vectors encode nothing semantic (truth-steering does 
 │   ├── a_symbiosis.txt          # Concept: symbiosis
 │   ├── a_social_capital.txt     # Concept: social capital
 │   └── ...                      # Other concept pairs
-├── steering_vectors/            # Pre-computed steering vectors
+├── diffs/            # Pre-computed steering vectors
 │   ├── Mistral-7B-Instruct-v0.3_diff_n.txt        # Truth vector (normalized)
 │   ├── Mistral-7B-Instruct-v0.3_diff_n_hp.txt     # Happiness vector
 │   ├── Mistral-7B-Instruct-v0.3_diff_n_ri.txt     # Harm vector
 │   ├── Mistral-7B-Instruct-v0.3_diff_n_gi.txt     # Idea vector
 │   └── Mistral-7B-Instruct-v0.3_diff_n_c*.txt     # Concept vectors
-├── results/                     # Evaluation results
+├── claude_judgements/                     # Evaluation results
 │   └── *.json                   # Claude-as-judge evaluations
 └── figures/                     # Plots and visualizations
 ```
