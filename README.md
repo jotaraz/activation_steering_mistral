@@ -2,7 +2,7 @@
 
 **Investigating how diverse steering vectors affect model compliance with harmful requests**
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-red)](interesting_writeup.pdf.pdf)
+[![Paper](https://img.shields.io/badge/Paper-PDF-red)](interesting_writeup.pdf)
 [![Model](https://img.shields.io/badge/Model-Mistral--7B--Instruct--v0.3-blue)](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3)
 
 ## TL;DR
